@@ -4,7 +4,7 @@
 
 Sou estudante de Sistemas de Informação e atuo na área de Tecnologia e Dados, com experiência em análise de dados, indicadores, automação e gestão de projetos.
 
-Atualmente, trabalho com **Power BI, Excel, Azure DevOps, SQL, Python e ferramentas de IA**, aplicando tecnologia para análise, acompanhamento e melhoria de processos.
+Atualmente, estágio pela Vale com **Power BI, Excel, Azure DevOps, SQL, Python e ferramentas de IA**, aplicando tecnologia para análise, acompanhamento e melhoria de processos.
 
 Tenho interesse principalmente em **Dados, Business Intelligence, Inteligência Artificial, Engenharia de Dados e Tecnologia**.
 
