@@ -2,9 +2,9 @@
 
 
 
-**`Desenvolvedor FullStack`**
+**`Análise de Dados, IA  e Mid Dev`**
 
-Me chamo Marco Antoio, tenho 19 anos e sou natural de Santa Luzia. Concluí o ensino médio técnico no Colégio Cotemig, com o curso técnico em informática. Atualmente, estou cursando Sistemas De Informação na Newton Paiva Wyden. Sou apaixonado por tecnologia. 
+Me chamo Marco Antoio, tenho 20 anos e sou natural de Santa Luzia. Concluí o ensino médio técnico no Colégio Cotemig, com o curso técnico em informática. Atualmente, estou cursando Sistemas De Informação na Newton Paiva Wyden. Sou apaixonado por tecnologia. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/marcobsp_/)
