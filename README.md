@@ -1,10 +1,12 @@
-### Olá! Eu sou o Marco Antonio!🖐️
+### 👋 Olá! Eu sou o Marco Antonio!
 
+**📊 Data Analytics | 🤖 IA | 💻 Tecnologia | 📋 PMO**
 
+Sou estudante de Sistemas de Informação e atuo na área de Tecnologia e Dados, com experiência em análise de dados, indicadores, automação e gestão de projetos.
 
-**`Análise de Dados, IA  e Mid Dev`**
+Atualmente, trabalho com **Power BI, Excel, Azure DevOps, SQL, Python e ferramentas de IA**, aplicando tecnologia para análise, acompanhamento e melhoria de processos.
 
-Me chamo Marco Antoio, tenho 20 anos e sou natural de Santa Luzia. Concluí o ensino médio técnico no Colégio Cotemig, com o curso técnico em informática. Atualmente, estou cursando Sistemas De Informação na Newton Paiva Wyden. Sou apaixonado por tecnologia. 
+Tenho interesse principalmente em **Dados, Business Intelligence, Inteligência Artificial, Engenharia de Dados e Tecnologia**.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/marcobsp_/)
