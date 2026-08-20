@@ -147,15 +147,15 @@ Me chamo Marco Antoio, tenho 20 anos e sou natural de Santa Luzia. Concluí o en
 
 
 ### 📊 Estatísticas
-<div>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcobispojr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
 
-![Marcobispojr GitHub stats](https://github-readme-stats.vercel.app/api?username=marcobispojr&show_icons=true&theme=highcontrast)
+<div align="center">
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=marcobispojr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcobispojr&layout=compact&langs_count=9&theme=tokyonight"
+  />
 </div>
 
